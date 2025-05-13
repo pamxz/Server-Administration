@@ -1,15 +1,15 @@
-# Server Administration: A Simple Guide
+Server Administration: A Simple Guide
 
 This documentation provides a straightforward guide to installing and configuring essential Windows Server roles and features for managing users and computers within a network environment.
 
-## Prerequisites
+Prerequisites
 
 Before proceeding with the installation and configuration steps, ensure your host machine meets the following minimum requirements:
 
-+ **Processor:** 1.4 GHz 64-bit processor
-+ **Memory:** 2 GB RAM (4 GB recommended for optimal performance)
-+  **Storage** 32 GB of storage space
-+  **Network Ethernet Adapter of 1GBps**
+Processor: 1.4 GHz 64-bit processor
+Memory: 2 GB RAM (4 GB recommended for optimal performance)
+Storage 32 GB of storage space
+Network Ethernet Adapter of 1GBps
 
 
 
